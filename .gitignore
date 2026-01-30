@@ -1,0 +1,19 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/.vs/InvertPNG
+/.vs/InvertPNG/FileContentIndex
+/.vs/InvertPNG/FileContentIndex/8b308b62-b840-4c1e-bea1-c4c377c81783.vsidx
+/.vs/InvertPNG/FileContentIndex/957f1a9c-32f7-4df3-8f78-b9a7663528b7.vsidx
+/.vs/InvertPNG/FileContentIndex/cc218a72-d6f0-4087-8290-2bb969c60821.vsidx
+/.vs/InvertPNG/FileContentIndex/d39a950c-7d32-4630-878d-b768bd8c9eb6.vsidx
+/.vs/InvertPNG/FileContentIndex/f940428e-0a5e-4e53-9d13-a54795533d8e.vsidx
+/.vs/InvertPNG/v17
+/.vs/InvertPNG/v17/.wsuo
+/.vs/InvertPNG/v17/DocumentLayout.backup.json
+/.vs/InvertPNG/v17/DocumentLayout.json
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
